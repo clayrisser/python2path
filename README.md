@@ -31,7 +31,7 @@ If you have a version of Python installed at a __custom location__, its path wil
 
 
 # Contribution
-If you would like to contribute to or fork this repository, that is totally awsome.  This project was coded in C#.  A contribution that would useful if anyone is up for the challenge would be creating a GUI for this.  You can also easily fork this repository to create a peice of software that adds other installations besides Python to the PATH System Environmental Variable.  If you decide to fork the repository, make sure you credit JamRizzi Technologies.
+If you would like to contribute to or fork this repository, that is totally awesome. This project was coded in C#. A contribution that would useful if anyone is up for the challenge would be creating a GUI for this. You can also easily fork this repository to create a piece of software that adds other installations besides Python to the PATH System Environmental Variable. If you decide to fork the repository, make sure you credit JamRizzi Technologies.
 
 [HERE](https://github.com/jamrizzi/python2path) is the location of the GitHub repository.
 
