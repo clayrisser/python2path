@@ -8,6 +8,7 @@ It automatically removes all previous paths to Python, so it can also be used to
 
 
 # Features
+
     * Automatic detection of Python installations
     * Automatic removal of previous Python installatiosn from PATH
 
@@ -35,4 +36,4 @@ If you have a version of Python installed at a __custom location__, its path wil
 
 # License
 
-The Python2Path uses the MIT license, available [here](./LICENSE.txt)
+The Python2Path uses the MIT license, available [HERE](./LICENSE)
