@@ -3,7 +3,7 @@ Python2Path adds Python to the System PATH Environmental Variable.
 
 It automatically removes all previous paths to Python, so it can also be used to update your PATH if you changed Python versions.
 
-[![Download Python2Path](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/python2path/files/latest/download)
+[![Download Python2Path](https://jamrizzi.com/wp-content/uploads/2015/10/orange_download_button.png)](https://jamrizzi.com/market/python2path/)
 
 
 # Features
@@ -30,8 +30,14 @@ It automatically removes all previous paths to Python, so it can also be used to
 If you have a version of Python installed at a __custom location__, its path will not automatically be detected.  If you do not want that version of Python in your PATH, you will have to remove it manually.
 
 
+# Contribution
+If you would like to contribute to or fork this repository, that is totally awsome.  This project was coded in C#.  A contribution that would useful if anyone is up for the challenge would be creating a GUI for this.  You can also easily fork this repository to create a peice of software that adds other installations besides Python to the PATH System Environmental Variable.  If you decide to fork the repository, make sure you credit JamRizzi Technologies.
+
+[HERE](https://github.com/jamrizzi/python2path) is the location of the GitHub repository.
+
+
 # Credits
-This piece of software was developmed by [JamRizzi Technologies](//jamrizzi.com).
+This piece of software was developed by [JamRizzi Technologies](//jamrizzi.com).
 
 
 # [Buy Me Coffee](//jamrizzi.com/buy-me-coffee)
@@ -39,4 +45,4 @@ A ridiculous amount of coffee was consumed in the process of building this proje
 
 
 # License
-The Python2Path uses the MIT license, available [HERE](./LICENSE).
+Python2Path uses the MIT license, available [HERE](./LICENSE).
