@@ -3,7 +3,7 @@ Python2Path adds Python to the System PATH Environmental Variable.
 
 It automatically removes all previous paths to Python, so it can also be used to update your PATH if you changed Python versions.
 
-[![Download Python2Path](https://jamrizzi.com/wp-content/uploads/2015/10/orange_download_button.png)](https://jamrizzi.com/market/python2path/)
+[![Download Python2Path](https://jamrizzi.com/wp-content/uploads/2015/10/orange_download_button.png)](//jamrizzi.com/market/python2path/)
 
 
 # Features
@@ -12,7 +12,7 @@ It automatically removes all previous paths to Python, so it can also be used to
 
 
 # Instructions
-1. Download and run the software.  You can get it [HERE](https://sourceforge.net/projects/python2path/files/latest/download).
+1. Download and run the software.  You can get it [HERE](//jamrizzi.com/market/python2path/).
 
 2. Enter either a valid Python version or a valid path to a Python installation.
 	* If your version is Python 2.7.10, you could enter one of the following and the path will automatically be detected.
