@@ -35,7 +35,7 @@ namespace Python2Path {
 
 ");
 
-            // Sanatize paths
+            // Sanitize paths
             for(int i = 0; i < paths.Count; i++) {
                 if(paths[i] == "") {
                     paths.RemoveAt(i);
@@ -93,7 +93,7 @@ C:/MySecretLocation/Python, then you would enter C:/MySecretLocation/Python.
                 input = Console.ReadLine();
                 Console.WriteLine();
 
-                // Detect if they are doing it automatically or manuelly
+                // Detect if they are doing it automatically or manually
                 for (int i = 0; i < input.Length; i++) {
                     if (input[i] == '/' || input[i] == '\\') {
                         automatic = false;
@@ -105,7 +105,7 @@ C:/MySecretLocation/Python, then you would enter C:/MySecretLocation/Python.
                     
                 // Automatic mode
                 if (automatic) {
-                    // Sanatize input
+                    // Sanitize input
                     for (int i = 0; i < input.Length; i++) { // Remove everything but numbers
                         if (Char.IsDigit(input[i])) {
                             pythonPath += input[i];
