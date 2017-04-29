@@ -24,8 +24,9 @@ Enter either a valid Python version or a valid path to a Python installation.
   * If you installed python at a custom location, such as C:/MySecretLocation/Python, then you would enter the following
     * C:/MySecretLocation/Python
 
-**Important**
-If you have a version of Python installed at a __custom location__, its path will not automatically be detected.  If you do not want that version of Python in your PATH, you will have to remove it manually.
+__Important__
+
+If you have a version of Python installed at a custom location, its path will not automatically be detected.  If you do not want that version of Python in your PATH, you will have to remove it manually.
 
 
 ## Support
