@@ -70,8 +70,8 @@ A ridiculous amount of coffee was consumed in the process of building this proje
 ## Changelog
 <!------------------------------------------------------->
 
-1.0.0 (10-18-15)
-* Initial release
-
 1.0.1 (10-23-15)
 * Fixed spelling error
+
+1.0.0 (10-18-15)
+* Initial release
